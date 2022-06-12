@@ -64,11 +64,5 @@ The <a href="https://github.com/PhantomGamers/SteamFriendsPatcher/releases"> Ste
 
 <details><summary>🔷Battle.net</summary>
    
-<h2>Recently i have played some COD MW, so i downloaded the battle net launcher</h2>
-   
-   <h3>**Heres a preview**:</h3> <br/>
-   ![battle net](https://user-images.githubusercontent.com/94133351/173251047-1466ae75-2922-4423-ad58-e958b4154291.png)
-
-   
-   
+<h2>Recently i have played some COD MW, so i downloaded the battle net launcher... and is this what it is</h2> 
 </details>
