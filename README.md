@@ -1,9 +1,9 @@
 # ―――⍨―――
-<details><summary>CLICK ME</summary>
+<details><summary>Details</summary>
 
 <p>
 
-#### We can hide anything, even code!
+#### Default things i use!
 
 ```ruby
    OS: Windows 11
