@@ -40,16 +40,35 @@ The wallpaper i use: [B-side II](https://steamcommunity.com/sharedfiles/filedeta
 
 ## 🎮Playing Games <br/>
 
-   🖤 I use the [Steam]{https://store.steampowered.com/about/} for playing games like: <br/>
+<details><summary>⚫Steam</summary>
+   <h1>『🖤 I use the <a href="https://store.steampowered.com/about/">Steam</a> for playing some games』</h1> <br/>
+   
    - CS:GO 3000+ hours
    - Apex Legends: 200+ hours
    - FIFA 22: play casually
    - Dead by Daylight: 600+ hours
    - GTA V: 300+ hours
 
-👾My perfil on steam: [♡bad suil]{https://steamcommunity.com/id/suil_id/}
+### 👾My perfil on steam is <a href="https://steamcommunity.com/id/suil_id/">♡bad suil</a> <br/>
    
 
 ![mysteam](https://user-images.githubusercontent.com/94133351/173249928-c97aeb71-40c1-4c42-8463-33fe74082909.png)
 
+#### ⬛ For customize my steam i used the <a href="https://metroforsteam.com/">**Metro Skin for Steam**</a>
+**And some of you might be thinking: "Steam blocks skins from changing their library and friends list"** <br/>
+And here, i have the solution!<br/>
+The <a href="https://github.com/PhantomGamers/SteamFriendsPatcher/releases"> Steam Friends Patcher!</a> which changes the CSS of the respective pages for you **and let your steam looks like this** (off course changes the friends list to)<br/>
+![steamcustom](https://user-images.githubusercontent.com/94133351/173250510-9561e87a-5b58-49ba-92ed-c636d484f4ce.png)
 
+</details>
+
+<details><summary>🔷Battle.net</summary>
+   
+<h2>Recently i have played some COD MW, so i downloaded the battle net launcher</h2>
+   
+   <h3>**Heres a preview**:</h3> <br/>
+   ![battle net](https://user-images.githubusercontent.com/94133351/173251047-1466ae75-2922-4423-ad58-e958b4154291.png)
+
+   
+   
+</details>
