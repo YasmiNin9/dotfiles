@@ -19,7 +19,7 @@
 </details>
 
 # **🖥️Desktop**
-i use the [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) for the animated wallpaper on my desktop <br/>
+i use the <a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/" target="_blank">Wallpaper Engine</a> for the animated wallpaper on my desktop <br/>
 The wallpaper i use: [B-side II](https://steamcommunity.com/sharedfiles/filedetails/?id=1443750775)
 
 <a href="https://imgur.com/sn1phsH"><img src="https://i.imgur.com/sn1phsH.png" title="source: imgur.com" /></a>
