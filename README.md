@@ -1,6 +1,6 @@
 <h1 align="center">―――⍨―――</h1>
 
-<details><summary>My peripherals</summary>
+<details><summary>⌨️ My peripherals</summary>
 
 <p>
 
@@ -17,14 +17,36 @@
 </p>
 
 </details>
+<details><summary>🪟 Some Configs</summary>
+   
+   <details><summary>For my 🌌VSCode</br></summary>
+   
+   - Font: [Cascadia font (a little bold)](https://www.fontsquirrel.com/fonts/cascadia-code)
+   - Theme: [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)<br/>
+ 
+ <details><summary>👁️‍🗨️Preview Font</summary>
+   
+![Cfont](https://i.imgur.com/lgfhSsI.png)<br/></details>
+ 
+ <details><summary>👁️‍🗨️Preview theme</summary></br>
+ 
+   ![Ctheme](https://i.imgur.com/WX9ftim.png)
+</details>
+</details>
+</details>
 
-# **🖥️Desktop**
+# **🖥️Desktop Design**
 i use the <a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/" target="_blank">Wallpaper Engine</a> for the animated wallpaper on my desktop <br/>
 The wallpaper i use: [B-side II](https://steamcommunity.com/sharedfiles/filedetails/?id=1443750775)
 
 <a href="https://imgur.com/sn1phsH"><img src="https://i.imgur.com/sn1phsH.png" title="source: imgur.com" /></a>
 
 <h3>Programs that i use for:</h3>
+
+##  💻Coding <br/>
+
+   🌌[Visual Studio Code (VSCODE)](https://code.visualstudio.com/download)
+
 
 ## 🧭Navegation <br/>
 
@@ -34,8 +56,11 @@ The wallpaper i use: [B-side II](https://steamcommunity.com/sharedfiles/filedeta
 ## 🎵Audio Player <br/>
 
    🟢i use [Spotify](https://www.spotify.com/br/download/windows/) for listen music and [Spicetify](https://spicetify.app/) for customization, using the theme **Dribbblish** in the color-theme **purple** <br/>
-
+<details><summary>👁️‍🗨️Preview Spicetify-Spotify</summary>
+   
 ![spotify](https://user-images.githubusercontent.com/94133351/173249456-485e8a83-ee75-49e2-9461-64dfa5708253.png)
+   
+</details>
 
 ## 🎮Playing Games <br/>
 
