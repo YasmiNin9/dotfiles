@@ -17,14 +17,14 @@
 </p>
 
 </details>
-<details><summary>🪟 Some Configs</summary>
+<details><summary>🪟 Some Configs</summary> <br/>
    
-   <details><summary>For my 🌌VSCode</br></summary>
+   <details><summary>   For my 🌌VSCode</br></summary>
    
    - Font: [Cascadia font (a little bold)](https://www.fontsquirrel.com/fonts/cascadia-code)
    - Theme: [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)<br/>
  
- <details><summary>👁️‍🗨️Preview Font</summary>
+ <details><summary>🗨️Preview Font</summary>
    
 ![Cfont](https://i.imgur.com/lgfhSsI.png)<br/></details>
  
@@ -32,6 +32,18 @@
  
    ![Ctheme](https://i.imgur.com/WX9ftim.png)
 </details>
+</details>
+
+ <details><summary>🖱️Mouse Drivers </summary></br>
+   
+   - Mouse Driver: Glorious Model O Software
+   - Mouse Driver Verison: 1.0.9
+   - Mouse Configs: Only use 1000dpi (color id green)
+
+   <details><summary>👁️‍🗨️Preview Mouse Driver</summary>
+      
+![MouseD](https://i.imgur.com/2Vn1lOe.png)
+   </details>
 </details>
 </details>
 
